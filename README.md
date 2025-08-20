@@ -27,7 +27,7 @@ Bowling Analysis:
 1) Which bowlers have the best economy, strike rate, and average?
 2) Which bowlers conceded the most runs in an innings?
 
-Player & Match Highlights
+Player & Match Highlights:
 
 1) Which players won the most "Player of the Match" awards?
 2) Which players are most valuable to their teams based on contributions?
